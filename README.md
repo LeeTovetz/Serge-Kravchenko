@@ -1,6 +1,9 @@
 # Serge Kravchenko
 ## Java Developer
 
+These are not my skills yet . 
+This repository is still under development. )))
+
 >**Contact Information:**  
 **Location: Cherkassy, Ukraine**  
 **Phone: _+380634380033_**  
