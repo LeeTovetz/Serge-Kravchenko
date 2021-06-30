@@ -29,6 +29,6 @@ I want to be a part professional team, where I can grow and learn new. The team 
 **_Languages_**  
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)  
 ![English](https://img.shields.io/badge/English-intermediate-yellowgreen)  
-![French](https://img.shields.io/badge/Polish-intermediate-yellowgreen)  
+![French](https://img.shields.io/badge/French-intermediate-yellowgreen)  
 ![Russian](https://img.shields.io/badge/Russian-native-yellowgreen)  
 
