@@ -1,4 +1,4 @@
-# Serge-Kravchenko
+# Serge Kravchenko
 ## Java Developer
 
 >**Contact Information:**  
@@ -10,7 +10,7 @@
 --- 
 ### About me:  
   
-I want to be a part professional team, where I can grow and learn new. The team in which I can fully realize myself and my skills. I am learning HTML, CSS, JS, and JS frameworks. I take responsibility for my obligations and the tasks set before me. Stress-resistant and disciplined .  
+I want to be a part professional team, where I can grow and learn new. The team in which I can fully realize myself and my skills. I am learning Java, HTML, CSS, JS, and JS frameworks. I take responsibility for my obligations and the tasks set before me. Stress-resistant and disciplined .  
 
 ### My skills:  
 **_Programming Languages/ Technologies_**  
