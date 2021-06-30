@@ -21,7 +21,8 @@ I want to be a part professional team, where I can grow and learn new. The team 
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=plastic&logo=git)  
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=plastic&logo=sass)  
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=plastic&logo=angular)  
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=plastic&logo=mysql) 
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=plastic&logo=mysql)
+![mongoDB](https://img.shields.io/badge/-mongoDB-090909?style=plastic&logo=mongoDB)
 
 <br><br>
 
