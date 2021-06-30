@@ -14,7 +14,7 @@ I want to be a part professional team, where I can grow and learn new. The team 
 
 ### My skills:  
 **_Programming Languages/ Technologies_**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=plastic&logo=JavaScript)  
+![Java](https://img.shields.io/badge/-Java-090909?style=plastic&logo=Java)  
 ![React](https://img.shields.io/badge/-React-090909?style=plastic&logo=react)  
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=plastic&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=css3)  
@@ -27,8 +27,8 @@ I want to be a part professional team, where I can grow and learn new. The team 
 ![Agile](https://img.shields.io/badge/-Agile-090909?style=plastic&logo=agile)  
 
 **_Languages_**  
-![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)  
 ![English](https://img.shields.io/badge/English-intermediate-yellowgreen)  
-![French](https://img.shields.io/badge/French-intermediate-yellowgreen)  
+![French](https://img.shields.io/badge/French-intermediate-yellowgreen) 
+![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)
 ![Russian](https://img.shields.io/badge/Russian-native-yellowgreen)  
 
