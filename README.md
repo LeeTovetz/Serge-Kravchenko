@@ -25,6 +25,21 @@ I want to be a part professional team, where I can grow and learn new. The team 
 ![JDBC](https://img.shields.io/badge/-JDBC-090909?style=plastic&logo=JDBC) 
 
  JUnit5. Maven. Groovy. Gradle. Spring. Hibernate
+ REST, HTTP
+
+Владение технологиями
+
+Java, Spring Framework. Hibernate,
+Spring Boot, Spring MVC, Spring Data, JUnit, Spring Boot Test
+Gradle, Maven, PostgreSQL
+Git
+
+Владение инструментами
+
+Jetbrains IDE
+
+GitHub
+Postman
  
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=plastic&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=css3)  
