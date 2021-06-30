@@ -10,7 +10,7 @@
 --- 
 ### About me:  
   
-I want to be a part professional team, where I can grow and learn new. The team in which I can fully realize myself and my skills. I am learning Java, HTML, CSS, JS, and JS frameworks. I take responsibility for my obligations and the tasks set before me. Stress-resistant and disciplined .  
+I want to be a part professional team, where I can grow and learn new. The team in which I can fully realize myself and my skills. I take responsibility for my obligations and the tasks set before me. Stress-resistant and disciplined .  
 
 ### My skills:  
 **_Programming Languages/ Technologies_**  
@@ -21,7 +21,8 @@ I want to be a part professional team, where I can grow and learn new. The team 
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=plastic&logo=git)  
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=plastic&logo=sass)  
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=plastic&logo=angular)  
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=plastic&logo=mysql)  
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=plastic&logo=mysql) 
+![mongoDB](https://img.shields.io/badge/-mongoDB-555555?style=for-the-badge&logo=mongoDB&logoColor=0fa64d)
 
 **_Methodology_**  
 ![Agile](https://img.shields.io/badge/-Agile-090909?style=plastic&logo=agile)  
