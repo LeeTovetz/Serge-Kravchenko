@@ -24,6 +24,7 @@ I want to be a part professional team, where I can grow and learn new. The team 
 ![Servlets](https://img.shields.io/badge/-Servlets-090909?style=plastic&logo=Servlets) 
 ![JDBC](https://img.shields.io/badge/-JDBC-090909?style=plastic&logo=JDBC) 
 
+ JUnit5. Maven. Groovy. Gradle. Spring. Hibernate
  
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=plastic&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=css3)  
