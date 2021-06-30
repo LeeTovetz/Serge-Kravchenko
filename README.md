@@ -45,7 +45,7 @@ I want to be a part professional team, where I can grow and learn new. The team 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)
 ![Russian](https://img.shields.io/badge/Russian-native-yellowgreen)
 
-## **I'm a beginner Developer and i will go this Way!**
+
 <br><br>
 ### **Languages ​​and Technologies with which I worked:**
 ---
@@ -74,7 +74,7 @@ I want to be a part professional team, where I can grow and learn new. The team 
 <br><br>
 ### **My contacts:**
 ---
-[![Skype](https://img.shields.io/badge/-Skype-555555?style=for-the-badge&logo=Skype&logoColor=00a8e2)](https://join.skype.com/invite/JGq2XJl2vrFv)
-[![instagram](https://img.shields.io/badge/-instagram-555555?style=for-the-badge&logo=instagram&logoColor=e13584)](https://www.instagram.com/mr.max_fit)
-[![Telegram](https://img.shields.io/badge/-telegram-555555?style=for-the-badge&logo=telegram&logoColor=e13584)](https://t.me/maximbevz)
+[![Skype](https://img.shields.io/badge/-Skype-555555?style=for-the-badge&logo=Skype&logoColor=00a8e2)](https://join.skype.com/invite/JGq2l2vrFv)
+[![instagram](https://img.shields.io/badge/-instagram-555555?style=for-the-badge&logo=instagram&logoColor=e13584)](https://www.instagam.com/mr.mx_fit)
+[![Telegram](https://img.shields.io/badge/-telegram-555555?style=for-the-badge&logo=telegram&logoColor=e13584)](https://t.me/mambevz)
 
