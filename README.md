@@ -1,5 +1,5 @@
 # Serge-Kravchenko
-##Java Developer
+## Java Developer
 
 >**Contact Information:**  
 **Location: Cherkassy, Ukraine**  
@@ -27,8 +27,8 @@ I want to be a part professional team, where I can grow and learn new. The team 
 ![Agile](https://img.shields.io/badge/-Agile-090909?style=plastic&logo=agile)  
 
 **_Languages_**  
-![English](https://img.shields.io/badge/English-intermediate-yellowgreen)  
-![French](https://img.shields.io/badge/French-intermediate-yellowgreen) 
+![English](https://img.shields.io/badge/English-intermediate-yellowgreen)
+![French](https://img.shields.io/badge/French-intermediate-yellowgreen)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)
-![Russian](https://img.shields.io/badge/Russian-native-yellowgreen)  
+![Russian](https://img.shields.io/badge/Russian-native-yellowgreen)
 
