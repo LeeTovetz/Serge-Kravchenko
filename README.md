@@ -27,7 +27,7 @@ I want to be a part professional team, where I can grow and learn new. The team 
 
 ![HTML](https://img.shields.io/badge/-HTML-555555?style=for-the-badge&logo=html5&logoColor=dd4b25)
 ![CSS](https://img.shields.io/badge/-CSS-555555?style=for-the-badge&logo=css3&logoColor=0068b2)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap&#160;4-555555?style=for-the-badge&logo=Bootstrap&logoColor=69419a)
+![Java](https://img.shields.io/badge/-Java&#160;4-555555?style=for-the-badge&logo=Java&logoColor=69419a)
 ![jQuery](https://img.shields.io/badge/-jQuery-555555?style=for-the-badge&logo=jQuery&logoColor=0065aa)
 ![JS](https://img.shields.io/badge/-JavaScript-555555?style=for-the-badge&logo=JavaScript&logoColor=efd81d)
 ![React](https://img.shields.io/badge/-React-555555?style=for-the-badge&logo=React&logoColor=79d8f7)
