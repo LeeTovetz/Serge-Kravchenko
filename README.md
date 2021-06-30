@@ -15,14 +15,23 @@ I want to be a part professional team, where I can grow and learn new. The team 
 ### My skills:  
 **_Programming Languages/ Technologies_**  
 ![Java](https://img.shields.io/badge/-Java-090909?style=plastic&logo=Java)  
-![React](https://img.shields.io/badge/-React-090909?style=plastic&logo=react)  
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=plastic&logo=mysql)  
+![JDBC](https://img.shields.io/badge/-JDBC-090909?style=plastic&logo=JDBC) 
+
+ 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=plastic&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=css3)  
+
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=plastic&logo=git)  
-![SASS](https://img.shields.io/badge/-SASS-090909?style=plastic&logo=sass)  
+ 
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=plastic&logo=angular)  
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=plastic&logo=mysql)  
+![React](https://img.shields.io/badge/-React-090909?style=plastic&logo=react) 
+
 ![mongoDB](https://img.shields.io/badge/-mongoDB-090909?style=plastic&logo=mongoDB)
+
+
+Java Core. SQL. JDBC. HTTP. Servlets
+Доступ ко всем 180+ видео из 4-х плейлистов
 
 **_Methodology_**  
 ![Agile](https://img.shields.io/badge/-Agile-090909?style=plastic&logo=agile)  
