@@ -101,9 +101,3 @@ Java Core. Level 1
 ![VSCode](https://img.shields.io/badge/-VSCode-555555?style=for-the-badge&logo=VisualStudioCode&logoColor=0187cd)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-555555?style=for-the-badge&logo=WebStorm&logoColor=000)
 <br><br>
-### **My contacts:**
----
-[![Skype](https://img.shields.io/badge/-Skype-555555?style=for-the-badge&logo=Skype&logoColor=00a8e2)](https://join.skype.com/invite/JGq2l2vrFv)
-[![instagram](https://img.shields.io/badge/-instagram-555555?style=for-the-badge&logo=instagram&logoColor=e13584)](https://www.instagam.com/mr.mx_fit)
-[![Telegram](https://img.shields.io/badge/-telegram-555555?style=for-the-badge&logo=telegram&logoColor=e13584)](https://t.me/mambevz)
-
