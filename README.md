@@ -6,9 +6,9 @@ This repository is still under development. )))
 
 >**Contact Information:**  
 **Location: Cherkassy, Ukraine**  
-**Phone: _+380634380033_**  
-**E-mail: 0634380033@ukr.net**  
-**LinkedIn: https://www.linkedin.com/in/serg-kravchenko/**  
+**Phone: _+380*********_**  
+**E-mail: 0*****3@ukr.net**  
+**LinkedIn: https://www.linkedin.com**  
   
 --- 
 ### About me:  
@@ -40,6 +40,20 @@ Jetbrains IDE
 
 GitHub
 Postman
+
+
+Java Core. Level 1 
+ - Java Core. Level 2
+ - Реляционные базы данных. SQL
+ - Реляционные базы данных. JDBC
+ - HTTP. Servlets
+ - Maven
+ - JUnit 5
+ - Groovy
+ - Gradle
+ - Hibernate
+ - Spring
+ - SpringBoot
  
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=plastic&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=css3)  
