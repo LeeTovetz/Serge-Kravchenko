@@ -1,6 +1,9 @@
 # Serge Kravchenko
 ## Java Developer
-
+---
+### These are not my skills yet . 
+### This repository is still under development. )))
+---
 ### **Languages ​​and Technologies with which I worked:**
 ---
 
@@ -18,9 +21,6 @@
 ![mySQL](https://img.shields.io/badge/-mySQL-555555?style=for-the-badge&logo=mySQL&logoColor=dd8a00)  
 ![mongoDB](https://img.shields.io/badge/-mongoDB-555555?style=for-the-badge&logo=mongoDB&logoColor=0fa64d)  
 <br><br>
-
-These are not my skills yet . 
-This repository is still under development. )))
 
  JUnit5. Maven. Groovy. Gradle. Spring. Hibernate
  REST, HTTP
