@@ -1,7 +1,6 @@
 # Serge Kravchenko
 ## Java Developer
----
-### **Languages ​​and Technologies with which I worked:**
+
 ![Java](https://img.shields.io/badge/-Java-555555?style=for-the-badge&logo=Java&logoColor=dd4b25)  
 ![Spring](https://img.shields.io/badge/-Spring-555555?style=for-the-badge&logo=Spring&logoColor=69419a)  
 ![Hibernate](https://img.shields.io/badge/-Hibernate-555555?style=for-the-badge&logo=Hibernate&logoColor=0065aa)  
