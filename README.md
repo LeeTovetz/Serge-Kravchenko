@@ -1,6 +1,4 @@
-# Serge Kravchenko
 ## Java Developer
-
 **Languages ​​and Technologies**<br>
 
 ![Jav1a](https://img.shields.io/badge/-Java-555555?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
