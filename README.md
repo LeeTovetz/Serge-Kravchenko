@@ -4,26 +4,6 @@
 These are not my skills yet . 
 This repository is still under development. )))
 
->**Contact Information:**  
-**Location: Cherkassy, Ukraine**  
-**Phone: _+380*********_**  
-**E-mail: 0*****3@ukr.net**  
-**LinkedIn: https://www.linkedin.com**  
-  
---- 
-### About me:  
-  
-I want to be a part professional team, where I can grow and learn new. The team in which I can fully realize myself and my skills. I take responsibility for my obligations and the tasks set before me. Stress-resistant and disciplined .  
-
-### My skills:  
-**_Programming Languages/ Technologies_**  
-![Java](https://img.shields.io/badge/-Java-090909?style=plastic&logo=Java)  
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=plastic&logo=mysql)  
-![JDBC](https://img.shields.io/badge/-JDBC-090909?style=plastic&logo=JDBC) 
-![HTTP](https://img.shields.io/badge/-HTTP-090909?style=plastic&logo=HTTP) 
-![Servlets](https://img.shields.io/badge/-Servlets-090909?style=plastic&logo=Servlets) 
-![JDBC](https://img.shields.io/badge/-JDBC-090909?style=plastic&logo=JDBC) 
-
  JUnit5. Maven. Groovy. Gradle. Spring. Hibernate
  REST, HTTP
 
@@ -40,7 +20,6 @@ Jetbrains IDE
 
 GitHub
 Postman
-
 
 Java Core. Level 1 
  - Java Core. Level 2
