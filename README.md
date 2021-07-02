@@ -24,6 +24,6 @@
 
 **Languages**  <br>
 
-![English](https://img.shields.io/badge/English-intermediate-yellowgreen)
+![English](https://img.shields.io/badge/English-intermediate-green)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)
 ![Russian](https://img.shields.io/badge/Russian-native-yellowgreen)
