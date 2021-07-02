@@ -24,6 +24,6 @@
 
 **Languages**  <br>
 
-![English](https://img.shields.io/badge/English-intermediate-yellowgreen-JetbrainsIDE-555555?style=for-the-badge&logo=Jetbrains1IDE&logoColor=efd81d)
+![English](https://img.shields.io/badge/English-intermediate-yellowgreen-555555?style)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)
 ![Russian](https://img.shields.io/badge/Russian-native-yellowgreen)
