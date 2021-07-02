@@ -28,7 +28,7 @@
 Владение технологиями
 
 Java, Spring Framework. Hibernate,
-Spring Boot, Spring MVC, Spring Data, JUnit, Spring Boot Test
+Spring Boot, Spring MVC, Spring Data, JUnit, Spring Boot Test, Groovy
 Gradle, Maven, PostgreSQL
 Git
 
@@ -37,25 +37,9 @@ Jetbrains IDE
 GitHub
 Postman
 
-Java Core. Level 1 
- - Java Core. Level 2
- - Реляционные базы данных. SQL
- - Реляционные базы данных. JDBC
- - HTTP. Servlets
- - Maven
- - JUnit 5
- - Groovy
- - Gradle
- - Hibernate
- - Spring
- - SpringBoot
- 
 **_Languages_**  
 ![English](https://img.shields.io/badge/English-intermediate-yellowgreen)
-![French](https://img.shields.io/badge/French-intermediate-yellowgreen)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)
 ![Russian](https://img.shields.io/badge/Russian-native-yellowgreen)
-
-<br><br>
 
 <br><br>
