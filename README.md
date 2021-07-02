@@ -8,7 +8,7 @@
 ---
 
 ![Java](https://img.shields.io/badge/-Java-555555?style=for-the-badge&logo=Java&logoColor=dd4b25)  
-![Spring Framework](https://img.shields.io/badge/-Spring-Framework-555555?style=for-the-badge&logo=Spring-Framework&logoColor=0068b2)  
+![Spring](https://img.shields.io/badge/-Spring-Framework-555555?style=for-the-badge&logo=Spring-Framework&logoColor=0068b2)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap&#160;4-555555?style=for-the-badge&logo=Bootstrap&logoColor=69419a)  
 ![jQuery](https://img.shields.io/badge/-jQuery-555555?style=for-the-badge&logo=jQuery&logoColor=0065aa)  
 ![JS](https://img.shields.io/badge/-JavaScript-555555?style=for-the-badge&logo=JavaScript&logoColor=efd81d)  
