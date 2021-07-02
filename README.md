@@ -18,7 +18,7 @@
 
 **Programming tools**<br>
 
-![JetbrainsIDE](https://img.shields.io/badge/-JetbrainsIDE-116062?style=for-the-badge&logo=Jetbrains1IDE&logoColor=efd81d)
+![Jetbrains_IDE](https://img.shields.io/badge/-JetbrainsIDE-116062?style=for-the-badge&logo=Jetbrains1IDE&logoColor=efd81d)
 ![GitHub](https://img.shields.io/badge/-GitHub-3b444b?style=for-the-badge&logo=Git1Hub&logoColor=efd81d)
 ![Postman](https://img.shields.io/badge/-Postman-116062?style=for-the-badge&logo=Post1man&logoColor=efd81d)
 
