@@ -18,9 +18,9 @@
 
 **Programming tools**<br>
 
-![JetbrainsIDE](https://img.shields.io/badge/-JetbrainsIDE-555555?style=for-the-badge&logo=Jetbrains1IDE&logoColor=efd81d)
-![GitHub](https://img.shields.io/badge/-GitHub-555555?style=for-the-badge&logo=Git1Hub&logoColor=efd81d)
-![Postman](https://img.shields.io/badge/-Postman-555555?style=for-the-badge&logo=Post1man&logoColor=efd81d)
+![JetbrainsIDE](https://img.shields.io/badge/-JetbrainsIDE-116062?style=for-the-badge&logo=Jetbrains1IDE&logoColor=efd81d)
+![GitHub](https://img.shields.io/badge/-GitHub-116062?style=for-the-badge&logo=Git1Hub&logoColor=efd81d)
+![Postman](https://img.shields.io/badge/-Postman-116062?style=for-the-badge&logo=Post1man&logoColor=efd81d)
 
 **Languages**  <br>
 
