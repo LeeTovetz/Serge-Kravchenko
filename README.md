@@ -7,8 +7,8 @@
 ### **Languages ​​and Technologies with which I worked:**
 ---
 
-![HTML](https://img.shields.io/badge/-HTML-555555?style=for-the-badge&logo=html5&logoColor=dd4b25)  
-![CSS](https://img.shields.io/badge/-CSS-555555?style=for-the-badge&logo=css3&logoColor=0068b2)  
+![Java](https://img.shields.io/badge/-Java-555555?style=for-the-badge&logo=Java&logoColor=dd4b25)  
+![Spring Framework](https://img.shields.io/badge/-Spring-Framework-555555?style=for-the-badge&logo=Spring-Framework&logoColor=0068b2)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap&#160;4-555555?style=for-the-badge&logo=Bootstrap&logoColor=69419a)  
 ![jQuery](https://img.shields.io/badge/-jQuery-555555?style=for-the-badge&logo=jQuery&logoColor=0065aa)  
 ![JS](https://img.shields.io/badge/-JavaScript-555555?style=for-the-badge&logo=JavaScript&logoColor=efd81d)  
@@ -21,9 +21,6 @@
 ![mySQL](https://img.shields.io/badge/-mySQL-555555?style=for-the-badge&logo=mySQL&logoColor=dd8a00)  
 ![mongoDB](https://img.shields.io/badge/-mongoDB-555555?style=for-the-badge&logo=mongoDB&logoColor=0fa64d)  
 <br><br>
-
- JUnit5. Maven. Groovy. Gradle. Spring. Hibernate
- REST, HTTP
 
 Владение технологиями
 
