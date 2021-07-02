@@ -8,7 +8,7 @@
 ---
 
 ![Java](https://img.shields.io/badge/-Java-555555?style=for-the-badge&logo=Java&logoColor=dd4b25)  
-![Spring](https://img.shields.io/badge/-Spring&#160;4-555555?style=for-the-badge&logo=Spring&logoColor=69419a)  
+![Spring](https://img.shields.io/badge/-Spring-555555?style=for-the-badge&logo=Spring&logoColor=69419a)  
 ![Hibernate](https://img.shields.io/badge/-Hibernate-555555?style=for-the-badge&logo=Hibernate&logoColor=0065aa)  
 ![JUnit](https://img.shields.io/badge/-JUnit-555555?style=for-the-badge&logo=JUnit&logoColor=efd81d)  
 ![Groovy](https://img.shields.io/badge/-Groovy-555555?style=for-the-badge&logo=Groovy&logoColor=79d8f7)  
