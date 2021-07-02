@@ -1,7 +1,7 @@
 # Serge Kravchenko
 ## Java Developer
 
-![Java]()  
+![Java](https://img.shields.io/badge/-Java-555555?style=for-the-badge&logo=Java&logoColor=efd81d)  
 ![Spring](https://img.shields.io/badge/-Spring-555555?style=for-the-badge&logo=Spring&logoColor=efd81d)  
 ![Hibernate](https://img.shields.io/badge/-Hibernate-555555?style=for-the-badge&logo=Hibernate&logoColor=efd81d)  
 ![JUnit](https://img.shields.io/badge/-JUnit-555555?style=for-the-badge&logo=JUnit&logoColor=efd81d)  
