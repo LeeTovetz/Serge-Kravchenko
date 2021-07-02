@@ -27,5 +27,3 @@
 ![English](https://img.shields.io/badge/English-intermediate-yellowgreen)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)
 ![Russian](https://img.shields.io/badge/Russian-native-yellowgreen)
-
-<br><br>
