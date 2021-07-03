@@ -1,5 +1,5 @@
 ## Java Developer
-**Languages ​​and Technologies**<br>
+**Technologies**<br>
 
 ![Jav1a](https://img.shields.io/badge/-Java-555555?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
 ![Spring](https://img.shields.io/badge/-Spring-555555?style=for-the-badge&logo=Sprin1g&logoColor=efd81d) 
