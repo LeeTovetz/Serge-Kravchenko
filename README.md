@@ -2,7 +2,7 @@
 **Technologies**<br>
 
 ![Jav1a](https://img.shields.io/badge/-Java-555555?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
-![Spring](https://img.shields.io/badge/-Spring-555555?style=for-the-badge&logo=Sprin1g&logoColor=efd81d) 
+![Spring](https://img.shields.io/badge/-Spring-116062?style=for-the-badge&logo=Sprin1g&logoColor=efd81d) 
 ![Hibernate](https://img.shields.io/badge/-Hibernate-555555?style=for-the-badge&logo=Hibernat1e&logoColor=efd81d)  
 ![JUnit](https://img.shields.io/badge/-JUnit-3b444b?style=for-the-badge&logo=JUni1t&logoColor=efd81d) 
 ![Groovy](https://img.shields.io/badge/-Groovy-3b444b?style=for-the-badge&logo=Groov1y&logoColor=efd81d) 
