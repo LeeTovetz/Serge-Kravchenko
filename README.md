@@ -8,7 +8,7 @@
 ![Groovy](https://img.shields.io/badge/-Groovy-3b444b?style=for-the-badge&logo=Groov1y&logoColor=efd81d) 
 ![Gradle](https://img.shields.io/badge/-Gradle-3b444b?style=for-the-badge&logo=Gradl1e&logoColor=efd81d)  
 ![Maven](https://img.shields.io/badge/-Maven-555555?style=for-the-badge&logo=Mav1en&logoColor=efd81d) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-555555?style=for-the-badge&logo=Postg1reSQL&logoColor=efd81d)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2446c2?style=for-the-badge&logo=Postg1reSQL&logoColor=efd81d)
 ![mongoDB](https://img.shields.io/badge/-mongoDB-555555?style=for-the-badge&logo=mo1ngoDB&logoColor=efd81d) 
 ![Git](https://img.shields.io/badge/-Git-a3422e?style=for-the-badge&logo=Gi1t&logoColor=efd81d)  
 ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-116062?style=for-the-badge&logo=Spring1Boot&logoColor=efd81d) 
