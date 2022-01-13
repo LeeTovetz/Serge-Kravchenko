@@ -1,3 +1,7 @@
+Hi. I'm still learning how to program. 
+That's all that's below isn't true yet. But that's what I'm aiming for. )))
+
+
 ![Java_Developer](https://img.shields.io/badge/-Java_Developer-116062?style=for-the-badge&logo=Java_Developer&logoColor=efd81d)  
 
 **Technologies**<br>
