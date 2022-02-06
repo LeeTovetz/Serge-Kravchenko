@@ -3,7 +3,7 @@ That's all that's below isn't true yet. <br>
 But that's what I'm aiming for. )))**
 
 
-![Java_Developer](https://img.shields.io/badge/-Java_Developer-116062?style=for-the-badge&logo=Java_Developer&logoColor=efd81d)  
+![Java_Developer](https://img.shields.io/badge/-Java_Developer-116062?style=for-the-badge&logo=Java_Developer&logoColor=#259af2)  
 
 **Technologies**<br>
 
