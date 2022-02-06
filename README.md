@@ -7,7 +7,7 @@ But that's what I'm aiming for. )))**
 
 **Technologies**<br>
 
-![Jav1a](https://img.shields.io/badge/-Java-a93328?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
+![Java](https://img.shields.io/badge/-Java-b35151?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
 ![Spring](https://img.shields.io/badge/-Spring-2d7b36?style=for-the-badge&logo=Sprin1g&logoColor=efd81d) 
 ![Hibernate](https://img.shields.io/badge/-Hibernate-536fb2?style=for-the-badge&logo=Hibernat1e&logoColor=efd81d)  
 ![JUnit](https://img.shields.io/badge/-JUnit-3b444b?style=for-the-badge&logo=JUni1t&logoColor=efd81d) 
