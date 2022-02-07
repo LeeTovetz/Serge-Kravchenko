@@ -15,7 +15,7 @@ But that's what I'm aiming for. )))**
 **Technologies**<br>
 
 ![Java](https://img.shields.io/badge/-Java-b35151?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
-![Spring](https://img.shields.io/badge/-Spring-2d7b36?style=for-the-badge&logo=Sprin1g&logoColor=efd81d) 
+![Spring](https://img.shields.io/badge/-Spring-4AB197?style=for-the-badge&logo=Sprin1g&logoColor=efd81d) 
 ![Hibernate](https://img.shields.io/badge/-Hibernate-536fb2?style=for-the-badge&logo=Hibernat1e&logoColor=efd81d)  
 ![JUnit](https://img.shields.io/badge/-JUnit-3b444b?style=for-the-badge&logo=JUni1t&logoColor=efd81d) 
 ![Groovy](https://img.shields.io/badge/-Groovy-171a69?style=for-the-badge&logo=Groov1y&logoColor=efd81d) 
@@ -25,7 +25,7 @@ But that's what I'm aiming for. )))**
 ![mongoDB](https://img.shields.io/badge/-mongoDB-555555?style=for-the-badge&logo=mo1ngoDB&logoColor=efd81d) 
 ![Git](https://img.shields.io/badge/-Git-a3422e?style=for-the-badge&logo=Gi1t&logoColor=efd81d)  
 ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-116062?style=for-the-badge&logo=Spring1Boot&logoColor=efd81d) 
-![SpringMVC](https://img.shields.io/badge/-Spring_MVC-2d7b36?style=for-the-badge&logo=SpringM1VC&logoColor=efd81d) 
+![SpringMVC](https://img.shields.io/badge/-Spring_MVC-4AB197?style=for-the-badge&logo=SpringM1VC&logoColor=efd81d) 
 ![SpringData](https://img.shields.io/badge/-Spring_Data-116062?style=for-the-badge&logo=Spring1Data&logoColor=efd81d) 
 <br>
 
