@@ -42,7 +42,7 @@ But that's what I'm aiming for. )))**
 ![](https://img.shields.io/badge/M:-Maven-informational?style=flat&logo=Maven&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/:-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/:-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/:-Lombok-informational?style=flat&logo=Lombok&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/L:-Lombok-informational?style=flat&logo=Lombok&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=jUnit&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Log-Log4j2-informational?style=flat&logo=Log4j2&logoColor=white&color=4AB197)
 
