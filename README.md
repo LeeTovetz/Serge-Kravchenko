@@ -41,9 +41,11 @@ But that's what I'm aiming for. )))**
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-blue)
 ![Russian](https://img.shields.io/badge/Russian-native-blue)
 
-<br>
+<br> 
+
 ![](https://img.shields.io/badge/:-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/L:-Lombok-informational?style=flat&logo=Lombok&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=jUnit&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Log-Log4j2-informational?style=flat&logo=Log4j2&logoColor=white&color=4AB197)
+
 <br>
