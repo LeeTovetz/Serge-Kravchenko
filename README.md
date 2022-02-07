@@ -10,13 +10,13 @@ That's all that's below isn't true yet. <br>
 But that's what I'm aiming for. )))**
 
 
-![Java_Developer](https://img.shields.io/badge/-Java_Developer-545775?style=for-the-badge&logo=Java_Developer&logoColor=efd81d)  
+![Java_Developer](https://img.shields.io/badge/-Java_Developer-2F0601?style=for-the-badge&logo=Java_Developer&logoColor=efd81d)  
 
 **Technologies**<br>
 
 ![Java](https://img.shields.io/badge/-Java-2F0601?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
 ![Spring](https://img.shields.io/badge/-Spring-4AB197?style=for-the-badge&logo=Sprin1g&logoColor=efd81d) 
-![Hibernate](https://img.shields.io/badge/-Hibernate-536fb2?style=for-the-badge&logo=Hibernat1e&logoColor=efd81d)  
+![Hibernate](https://img.shields.io/badge/-Hibernate-2F0601?style=for-the-badge&logo=Hibernat1e&logoColor=efd81d)  
 ![JUnit](https://img.shields.io/badge/-JUnit-3b444b?style=for-the-badge&logo=JUni1t&logoColor=efd81d) 
 ![Groovy](https://img.shields.io/badge/-Groovy-171a69?style=for-the-badge&logo=Groov1y&logoColor=efd81d) 
 ![Gradle](https://img.shields.io/badge/-Gradle-3b444b?style=for-the-badge&logo=Gradl1e&logoColor=efd81d)  
