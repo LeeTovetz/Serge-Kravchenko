@@ -36,10 +36,10 @@ But that's what I'm aiming for. )))**
 
 <br>
 
-![](https://img.shields.io/badge/:-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/:-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/:-Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/:-Maven-informational?style=flat&logo=Maven&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/J:-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/SB:-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/H:-Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/M:-Maven-informational?style=flat&logo=Maven&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/:-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/:-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/:-Lombok-informational?style=flat&logo=Lombok&logoColor=white&color=4AB197)
