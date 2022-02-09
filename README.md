@@ -7,8 +7,7 @@
 
 **Hi. I'm still learning how to program. <br>
 That's all that's below isn't true yet. <br>
-But that's what I'm aiming for. )))**
-
+But that's what I'm aiming for. )))** <br>
 
 ![Java_Developer](https://img.shields.io/badge/-Java_Developer-2F0601?style=for-the-badge&logo=Java_Developer&logoColor=efd81d)  
 
