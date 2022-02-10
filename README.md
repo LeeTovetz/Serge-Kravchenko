@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/SB:-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/H:-Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/M:-Maven-informational?style=flat&logo=Maven&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/PSQL:-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/PSQL:-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197) <br>
 **Hi. I'm still learning how to program. <br>
 That's all that's below isn't true yet. <br>
 But that's what I'm aiming for. )))** <br>
@@ -10,7 +10,6 @@ But that's what I'm aiming for. )))** <br>
 ![Java_Developer](https://img.shields.io/badge/-Java_Developer-2F0601?style=for-the-badge&logo=Java_Developer&logoColor=efd81d)  
 
 **Technologies**<br>
-
 ![Java](https://img.shields.io/badge/-Java-545775?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
 ![Spring](https://img.shields.io/badge/-Spring-4AB197?style=for-the-badge&logo=Sprin1g&logoColor=efd81d) 
 ![Hibernate](https://img.shields.io/badge/-Hibernate-545775?style=for-the-badge&logo=Hibernat1e&logoColor=efd81d)  
