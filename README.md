@@ -11,7 +11,7 @@ But that's what I'm aiming for. )))** <br>
 
 ![Java_Developer](https://img.shields.io/badge/-Java_Developer-2F0601?style=for-the-badge&logo=Java_Developer&logoColor=efd81d)  
 
-**Technologies**<br>
+## **Technologies**<br>
 
 ![Java](https://img.shields.io/badge/-Java-545775?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
 ![Spring](https://img.shields.io/badge/-Spring-4AB197?style=for-the-badge&logo=Sprin1g&logoColor=efd81d) 
@@ -28,13 +28,13 @@ But that's what I'm aiming for. )))** <br>
 ![SpringData](https://img.shields.io/badge/-Spring_Data-4AB197?style=for-the-badge&logo=Spring1Data&logoColor=efd81d) 
 <br>
 
-**Programming tools**<br>
+## **Programming tools**<br>
 
 ![Jetbrains_IDE](https://img.shields.io/badge/-Jetbrains_IDE-116062?style=for-the-badge&logo=Jetbrains1IDE&logoColor=efd81d)
 ![GitHub](https://img.shields.io/badge/-GitHub-3b444b?style=for-the-badge&logo=Git1Hub&logoColor=efd81d)
 ![Postman](https://img.shields.io/badge/-Postman-116062?style=for-the-badge&logo=Post1man&logoColor=efd81d)
 
-**Languages**  <br>
+## **Languages**  <br>
 
 ![English](https://img.shields.io/badge/English-intermediate-blue)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-blue)
@@ -47,7 +47,7 @@ But that's what I'm aiming for. )))** <br>
 ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=jUnit&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Log-Log4j2-informational?style=flat&logo=Log4j2&logoColor=white&color=4AB197)
 
-<br>
+## <br>
 
 ## Account Service
 
