@@ -28,20 +28,16 @@ But that's what I'm aiming for. )))** <br>
 <br>
 
 **Programming tools**<br>
-
 ![Jetbrains_IDE](https://img.shields.io/badge/-Jetbrains_IDE-116062?style=for-the-badge&logo=Jetbrains1IDE&logoColor=efd81d)
 ![GitHub](https://img.shields.io/badge/-GitHub-3b444b?style=for-the-badge&logo=Git1Hub&logoColor=efd81d)
 ![Postman](https://img.shields.io/badge/-Postman-116062?style=for-the-badge&logo=Post1man&logoColor=efd81d)
 
-
  **Languages**  <br>
-
 ![English](https://img.shields.io/badge/English-intermediate-blue)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-blue)
 ![Russian](https://img.shields.io/badge/Russian-native-blue)
 
 ## 
-
 ![](https://img.shields.io/badge/:-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/L:-Lombok-informational?style=flat&logo=Lombok&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=jUnit&logoColor=white&color=4AB197)
