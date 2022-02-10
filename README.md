@@ -11,7 +11,7 @@ But that's what I'm aiming for. )))** <br>
 
 ![Java_Developer](https://img.shields.io/badge/-Java_Developer-2F0601?style=for-the-badge&logo=Java_Developer&logoColor=efd81d)  
 
-## **Technologies**<br>
+## Technologies<br>
 
 ![Java](https://img.shields.io/badge/-Java-545775?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
 ![Spring](https://img.shields.io/badge/-Spring-4AB197?style=for-the-badge&logo=Sprin1g&logoColor=efd81d) 
