@@ -47,7 +47,7 @@ But that's what I'm aiming for. )))** <br>
 - https://github.com/LeeTovetz/Java-Marathon-by-Alishev (Java Core)
 - https://github.com/LeeTovetz/ShadokGame (Java Core)
 - https://github.com/LeeTovetz/Calculator-Project (Java Core)
-
+- https://github.com/LeeTovetz/JetBrains-Academy (Java Core)
 
 ## 
 ![](https://img.shields.io/badge/:-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=4AB197)
