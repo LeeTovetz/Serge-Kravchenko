@@ -40,8 +40,8 @@ But that's what I'm aiming for. )))** <br>
 
 | project                                                           | description                                                             | technologies                                                                                      |
 |-------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| [Cafe-Project](https://github.com/LeeTovetz/Cafe-Project)                         | The training appendix on the work of the restaurant                            | Java Core (Advanced Core, Lambda, IO, Generics, Multithread)               |
-| [ ](https:// )         |                       |                                            |
+| [Cafe-Project](https://github.com/LeeTovetz/Cafe-Project)                         | The training appendix on the work of the restaurant     | Java Core (Advanced Core, Lambda, IO, Generics, Multithread)                                  |
+
 
 ##### Others study projects
 
