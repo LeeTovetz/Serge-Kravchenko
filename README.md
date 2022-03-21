@@ -53,19 +53,13 @@ But that's what I'm aiming for. )))** <br>
 | [Tracker](https://github.com/kalenikov/job4j_tracker)             | Console task tracker with CRUD-operations                               | JDBC, Hibernate, Hsqldb, json, mockito, Docker                                                    |
 | [RGP admin](https://github.com/kalenikov/JavaRushIntership)       | App for the admin of online role-playing game (topjava internship task) | Spring (WebMVC, Data JPA), JSTL, mysql                                                            |
 | [Restaurant app](https://github.com/kalenikov/topjava)            | Restaurant app with dish selection and voting (topjava study project)   | Spring (WebMVC, Data JPA, Security, Test), ehcache, jquery, bootstrap                             |
-| [Admin app](https://github.com/kalenikov/bootjava-admin-app)      | Service for the administration some spring app                          | Spring Boot (Security, Data JPA, Rest, Validation, cache, test)                                   |
+| [Cafe-Project](https://github.com/LeeTovetz/Cafe-Project)      | Restaurant app                          | Java Core                                   |
 
 ##### Others study projects
 
-- https://github.com/kalenikov/job4j_pooh (Sockets, ExecutorService)
-- https://github.com/kalenikov/job4j_elementary (Core)
-- https://github.com/kalenikov/job4j_threads (Concurrent)
-- https://github.com/kalenikov/job4j_design (Advanced Core, Lambda, IO, Generics, Concurrent)
-- https://github.com/kalenikov/job4j_discovery (Example Eureka discovery)
-- https://github.com/kalenikov/job4j_bank (Small microservice system)
-- https://github.com/kalenikov/job4j_rest (Simple Rest project)
-- https://github.com/kalenikov/job4j_weather (Simple Webflux-app)
-
+- https://github.com/LeeTovetz/Java-Marathon-by-Alishev (Java Core)
+- https://github.com/LeeTovetz/ShadokGame (Java Core)
+- https://github.com/LeeTovetz/Calculator-Project (Java Core)
 
 
 ## 
