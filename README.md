@@ -40,8 +40,7 @@ But that's what I'm aiming for. )))** <br>
 
 | project                                                           | description                                                             | technologies                                                                                      |
 |-------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| [AAA](https://github.com/AAA)                                     | URLs shortener service with usage statistics                            | Spring Boot (Security, Data JPA, Rest, Validation), JWT, Docker, PostgresSQL, Lombok              |
-
+| [Cafe-Project](https://github.com/LeeTovetz/Cafe-Project)                         | The training appendix on the work of the restaurant                            | Java Core (Advanced Core, Lambda, IO, Generics, Multithread)               |
 | [Cafe-Project](https://github.com/LeeTovetz/Cafe-Project)         | The training appendix on the work of the restaurant                     | Java Core (Advanced Core, Lambda, IO, Generics, Multithread)                                          |
 
 ##### Others study projects
