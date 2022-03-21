@@ -53,7 +53,7 @@ But that's what I'm aiming for. )))** <br>
 | [Tracker](https://github.com/kalenikov/job4j_tracker)             | Console task tracker with CRUD-operations                               | JDBC, Hibernate, Hsqldb, json, mockito, Docker                                                    |
 | [RGP admin](https://github.com/kalenikov/JavaRushIntership)       | App for the admin of online role-playing game (topjava internship task) | Spring (WebMVC, Data JPA), JSTL, mysql                                                            |
 | [Restaurant app](https://github.com/kalenikov/topjava)            | Restaurant app with dish selection and voting (topjava study project)   | Spring (WebMVC, Data JPA, Security, Test), ehcache, jquery, bootstrap                             |
-| [Cafe-Project](https://github.com/LeeTovetz/Cafe-Project)      | Restaurant app                          | Java Core                                   |
+| [Cafe-Project](https://github.com/LeeTovetz/Cafe-Project)      | The main condition of the task to create the project "Cafe" is to use only Java Core.                          | Java Core                                   |
 
 ##### Others study projects
 
