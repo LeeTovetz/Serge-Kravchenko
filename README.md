@@ -39,7 +39,7 @@ But that's what I'm aiming for. )))** <br>
 
 | project                                                           | description                                                             | technologies                                                                                      |
 |-------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| [JavaSchool LevelBasic](https://github.com/LeeTovetz/Java-Tasks)                            | The course covers the basics of Java, such as Java Core, collections, multithreading, OOP           | Java Core, Advanced Core                                   |
+| [JavaSchool (LevelBasic)](https://github.com/LeeTovetz/Java-Tasks)                            | The course covers the basics of Java, such as Java Core, collections, multithreading, OOP           | Java Core, Advanced Core                                   |
 | [ClientServer](https://github.com/LeeTovetz/ClientServer)                         | Java Client-Server application which transfer objects of clients to server and after that to Postgres DB     | Java, PostrgreSQL                                   |
 | [Cafe-Project](https://github.com/LeeTovetz/Cafe-Project)                         | The training appendix on the work of the restaurant     | Java Core (Advanced Core, Lambda, IO, Generics, Concurrent)                                   |
 
