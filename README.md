@@ -48,6 +48,7 @@ But that's what I'm aiming for. )))** <br>
 
 ##### Others study projects
 
+- https://github.com/LeeTovetz/JRU-JavaSyntax (Java Syntax)
 - https://github.com/LeeTovetz/Java-Course-by-L.Tishkevich (javaCore -> springFrameworks)
 - https://github.com/LeeTovetz/Java-Marathon-by-Alishev   (Advanced Core)
 - https://github.com/LeeTovetz/ShadokGame                 (Java Core)
