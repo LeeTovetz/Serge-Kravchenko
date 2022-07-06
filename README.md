@@ -39,6 +39,7 @@ But that's what I'm aiming for. )))** <br>
 
 | project                                                           | description                                                             | technologies                                                                                      |
 |-------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| [JavaCourseTishkevich](https://github.com/LeeTovetz/Java-Course-by-L.Tishkevich)            | Practical course Java Developer from scratch to the first offer.           | Advanced Core, Gradle, Maven, PostgreSQL, Hibernate, Spring Framework.                                    |
 | [JavaSchool (LevelOOP)](https://github.com/LeeTovetz/Java-Tasks-OOP)            | The course continues to cover new topics on the Java language in OOP style.           | Advanced Core                                   |
 | [SimpleHTTPserver](https://github.com/LeeTovetz/SimpleHTTPserver)                            | Creating a simple http server.            | Java Advanced Core                                   |
 | [JavaSchool (LevelBasic)](https://github.com/LeeTovetz/Java-Tasks)                            | The course covers the basics of Java, such as Java Core, collections           | Java Core, Advanced Core                                   |
@@ -48,7 +49,6 @@ But that's what I'm aiming for. )))** <br>
 
 ##### Others study projects
 
-- https://github.com/LeeTovetz/Java-Course-by-L.Tishkevich (javaCore -> springFrameworks)
 - https://github.com/LeeTovetz/JRU-JavaSyntax (Java Syntax)
 - https://github.com/LeeTovetz/Java-Marathon-by-Alishev   (Advanced Core)
 - https://github.com/LeeTovetz/ShadokGame                 (Java Core)
