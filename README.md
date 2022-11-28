@@ -16,7 +16,6 @@ But that's what I'm aiming for. )))** <br>
 ![Gradle](https://img.shields.io/badge/-Gradle-3b444b?style=for-the-badge&logo=Gradl1e&logoColor=efd81d)
 ![Maven](https://img.shields.io/badge/-Maven-545775?style=for-the-badge&logo=Mav1en&logoColor=efd81d)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3b444b?style=for-the-badge&logo=Postg1reSQL&logoColor=efd81d)
-![mongoDB](https://img.shields.io/badge/-mongoDB-545775?style=for-the-badge&logo=mo1ngoDB&logoColor=efd81d) 
 ![Git](https://img.shields.io/badge/-Git-3b444b?style=for-the-badge&logo=Gi1t&logoColor=efd81d)  
 ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-4AB197?style=for-the-badge&logo=Spring1Boot&logoColor=efd81d) 
 ![SpringMVC](https://img.shields.io/badge/-Spring_MVC-116062?style=for-the-badge&logo=SpringM1VC&logoColor=efd81d) 
