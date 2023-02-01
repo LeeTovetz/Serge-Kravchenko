@@ -12,7 +12,7 @@ But that's what I'm aiming for. )))** <br>
 ![Java](https://img.shields.io/badge/-Java-545775?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
 ![Spring](https://img.shields.io/badge/-Spring-4AB197?style=for-the-badge&logo=Sprin1g&logoColor=efd81d) 
 ![Hibernate](https://img.shields.io/badge/-Hibernate-545775?style=for-the-badge&logo=Hibernat1e&logoColor=efd81d)  
-![JUnit](https://img.shields.io/badge/-JUnit-3b444b?style=for-the-badge&logo=JUni1t&logoColor=efd81d)
+![JUnit5](https://img.shields.io/badge/-JUnit-3b444b?style=for-the-badge&logo=JUni1t&logoColor=efd81d)
 ![Gradle](https://img.shields.io/badge/-Gradle-3b444b?style=for-the-badge&logo=Gradl1e&logoColor=efd81d)
 ![Maven](https://img.shields.io/badge/-Maven-545775?style=for-the-badge&logo=Mav1en&logoColor=efd81d)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3b444b?style=for-the-badge&logo=Postg1reSQL&logoColor=efd81d)
