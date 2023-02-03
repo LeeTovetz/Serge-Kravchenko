@@ -47,7 +47,7 @@ But that's what I'm aiming for. )))** <br>
 
 ##### Others study projects
 
-- https://github.com/LeeTovetz/JRU-JavaProfessional (Maven, JUnit5, Log4j2 ...)
+- https://github.com/LeeTovetz/JRU-JavaProfessional (Maven, JUnit5, Log4j2, HTML, CSS, JS, jQuery...)
 - https://github.com/LeeTovetz/ua.com.javarush.november.kravchenko.island (Java Core)
 - https://github.com/LeeTovetz/JRU-JavaCore (Java Core)
 - https://github.com/LeeTovetz/CryptAnalyzer (Java Syntax)
