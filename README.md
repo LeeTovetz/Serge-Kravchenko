@@ -32,15 +32,6 @@ But that's what I'm aiming for. )))** <br>
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-blue)
 ![Russian](https://img.shields.io/badge/Russian-native-blue)
 
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
-</p>
-
-
 ### Study projects
 
 | project                                                           | description                                                             | technologies                                                                                      |
@@ -74,6 +65,11 @@ But that's what I'm aiming for. )))** <br>
 ![](https://img.shields.io/badge/Log-Log4j2-informational?style=flat&logo=Log4j2&logoColor=white&color=4AB197)
 
 
-
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=LeeTovetz&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=LeeTovetz&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/LeeTovetz/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeTovetz&layout=compact"/></a>
+</p>
 
 
