@@ -72,8 +72,4 @@ But that's what I'm aiming for. )))** <br>
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeTovetz&layout=compact"/></a>
 </p>
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/LeeTovetz/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=LeeTovetz&color=DE002D">
-   </a>
-</div>
+
